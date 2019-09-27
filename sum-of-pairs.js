@@ -44,3 +44,5 @@ sum_pairs([4, 3, 2, 3, 4], 6)
 sum_pairs([0, 0, -2, 3], 2)
 sum_pairs([10, 5, 2, 3, 7, 5], 10)
 console.log(sum_pairs([20,-13,40], -7))
+
+// el kata no pasa porque requiere implementar MEMOIZATION
